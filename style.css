@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.octocat {
+    display: flex;
+}
+
+.octocat img {
+    width: 400px;
+}
